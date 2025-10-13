@@ -1,4 +1,5 @@
-Hi, I'm [Vihwas]! 👋
+Hi, I'm Vihwas! 👋
+
 I'm a [your profession/role, e.g., passionate developer] based in [your location, e.g., New York]. I specialize in [your skills, e.g., full-stack web development with React and Node.js]. Welcome to my GitHub profile!
 🚀 About Me
 
