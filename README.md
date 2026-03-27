@@ -1,66 +1,39 @@
-Hi, I'm Vihwas! 👋
+# Hi, I'm Vishwas! 👋
 
-I'm a [your profession/role, e.g., passionate developer] based in [your location, e.g., New York]. I specialize in [your skills, e.g., full-stack web development with React and Node.js]. Welcome to my GitHub profile!
-🚀 About Me
+I'm a **Full Stack Developer** based in **Bangalore**. I specialize in **Node.js, Java, MongoDB, MySQL, HTML, CSS, and JavaScript**. Welcome to my GitHub profile!
 
-🔭 I’m currently working on [your current project or interest, e.g., open-source contributions].
-🌱 I’m currently learning [something new, e.g., machine learning with Python].
-👯 I’m looking to collaborate on [e.g., AI projects or web apps].
-💬 Ask me about [your expertise, e.g., JavaScript, DevOps].
-📫 How to reach me: [your email or contact, e.g., your.email@example.com].
-😄 Pronouns: [optional, e.g., he/him].
+---
 
-🛠️ Tech Stack
+## 🚀 About Me
 
+🔭 I’m currently exploring and building skills in **Node.js and MongoDB for backend development**
+🌱 I’m currently learning **Full Stack Development and improving backend skills**
+👯 I’m looking to collaborate on **web applications and backend projects**
+💬 Ask me about **Java, Node.js, MongoDB, Web Development, and Computer Networks**
+📫 How to reach me: **[vishwastrajsaantveri@gmail.com](mailto:vishwastrajsaantveri@gmail.com)**
+😄 Pronouns: **he/him**
 
+---
 
+## 🚀 Tech Stack
 
+| Category       | Technologies               |
+| -------------- | -------------------------- |
+| **Languages**  | JavaScript, Python, Java   |
+| **Frameworks** | Node.js, React             |
+| **Tools**      | Git, Docker                |
+| **Databases**  | MongoDB, MySQL, PostgreSQL |
 
+---
 
+## 🔥 Projects
 
+* 🔹 **GlaucoTrack** – Intelligent Eye Health Screening System
+* 🔹 **Node.js Backend APIs**
+* 🔹 **Java Full Stack Projects**
 
+---
 
+## 💡 Goal
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CategoryTechnologiesLanguagesJavaScript, Python, JavaFrameworksReact, Node.js, DjangoToolsGit, Docker, AWSDatabasesMongoDB, PostgreSQL
-(Feel free to customize this table with your actual tech stack.)
-📊 GitHub Stats
-(You can add dynamic badges here using shields.io or similar services. For example, paste this into your README:)
-markdown[![GitHub followers](https://img.shields.io/github/followers/v2000529?label=Followers&style=social)](https://github.com/v2000529)
-[![GitHub stars](https://img.shields.io/github/stars/v2000529?label=Stars)](https://github.com/v2000529)
-🔥 Pinned Repositories
-(Pin your top repos on GitHub to auto-populate this section, or list them manually:)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RepoDescriptionLanguageStarsrepo-name[Brief description]
-📈 Activity Graph
-(Add this for a visual streak – replace with your username if needed:)
+Aspiring to become a skilled **Full Stack Developer** and build impactful real-world applications 🚀
