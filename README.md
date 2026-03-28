@@ -28,9 +28,10 @@ I'm a **Full Stack Developer** based in **Bangalore**. I specialize in **Node.js
 
 ## 🔥 Projects
 
-* 🔹 **GlaucoTrack** – Intelligent Eye Health Screening System
-* 🔹 **Node.js Backend APIs**
-* 🔹 **Java Full Stack Projects**
+🔹 GlaucoTrack – Intelligent Eye Health Screening System
+🔹 Utterly – Multi-Purpose Shopping App (Grocery, Pharmacy, Food, etc.)
+🔹 Event Management System
+🔹 URL Shortener
 
 ---
 
